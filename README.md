@@ -1,5 +1,5 @@
 ## Informatics Sophomore at Institut Teknologi Bandung (ITB)
-### Hello! My name is Akram and I'm currently learning on how to become a professional software engineer! 👋
+### Hello! My name is Akram! 👋
 
 - 🌱 I’m currently having a big interest on Full Stack Web Development using the MERN Stack
 - 👯 I have some experiences using these languages: **Python, Java, JavaScript, C, C++, C#**
