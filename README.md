@@ -1,7 +1,9 @@
 ## I'm Informatics Sophomore at Institut Teknologi Bandung (ITB)!!
 ### Hello! My name is Akram and I'm currently learning on how to become a professional software engineer! 👋
 
-- 🌱 I’m currently having a big interest on Full Stack Web-Dev using the MERN Stack
+- 🌱 I’m currently having a big interest on Full Stack Web Development using the MERN Stack
+- 👯 I have some experiences using these languages: **Python, Java, JavaScript, C, C++, C#**
+- 🥅 On the path to learn more about: **Web Development, Machine Learning, Data Science**
 
 
 ### Connect with me:
@@ -11,16 +13,10 @@
 
 <br />
 
-### Languages and Tools:
+### Notable Projects:
+http://github.com - automatic!
+[GitHub](http://github.com)
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
-
-<br />
 <br />
 
 ---
