@@ -15,7 +15,7 @@
 
 ### Notable Projects:
 http://github.com - automatic!
-[GitHub](http://github.com)
+[Check](http://github.com)
 
 <br />
 
