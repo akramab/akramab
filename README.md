@@ -14,8 +14,6 @@
 <br />
 
 ### Notable Projects:
-* _Simple Tinder Clone_ - Direct clone of the main page in Tinder apps. A simple project that's written to make use of the MERN Stack. The backend is deployed on **HerokuApp** and the frontend is deployed on **Firebase**.
-[Click Me!](https://github.com/akramab/tinder-clone)
 * _BelibisBot_ - Chatbot that's made using KMP Algorithm, Regex, and Levensteihn Distance Metric to recognize certain word patterns that is related to task and their deadlines (Made using **Python** and **Flask**. **Deployed on HerokuApp**)
 [Click Me!](https://github.com/akramab/belibisbot)
 * _People You May Know_ - Simple apps that's written in **C#**. An implementation of Depth First Search and Breadth First Search algorithm that's used to find path given a graph with adjacency matrix.
